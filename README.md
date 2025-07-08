@@ -1,6 +1,6 @@
-# Cybersecurity Portfolio — [Your Name]
+# Cybersecurity Portfolio — Jayasri Vijayakumar
 
-Welcome to my cybersecurity portfolio! This repo contains my notes, labs, and practical work as I study for the CompTIA Security+ and build hands-on skills in the cybersecurity field.
+Welcome to my cybersecurity portfolio! This repository contains my notes, labs, and practical work as I study for the CompTIA Security+ and build hands-on skills in the cybersecurity field.
 
 ## Topics Covered
 - Security+ Domain Notes (Threats, Architecture, Risk)
