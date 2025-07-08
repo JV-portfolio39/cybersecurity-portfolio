@@ -8,10 +8,20 @@ Welcome to my cybersecurity portfolio! This repository contains my notes, labs, 
 - Tools (Wireshark, Nmap, Burp Suite)
 - Practice Exams & Reflections
 
-
 ## Certifications
 - IBM cyber security fundamentals certification : December 2023
 - Motion creative diploma at Hyper Island : June 2025
+
+## Education 
+- Madras University : 2012-2015
+  Bachelors of Information Systems and Management 
+- Hyper Island : 2024-2025
+  Diploma in Mottio Creative
+
+## Experience
+- Associate Software Engineer : 2015-2017
+  TechMahindra Chennai, India
+
 
 ## About Me
 I'm a motion designer pivoting into cybersecurity. I'm passionate about hands-on learning, network defense, and offensive security labs.
