@@ -17,4 +17,6 @@ Welcome to my cybersecurity portfolio! This repository contains my notes, labs, 
 I'm a motion designer pivoting into cybersecurity. I'm passionate about hands-on learning, network defense, and offensive security labs.
 
 https://www.linkedin.com/in/jvanimations/
+
+
 Updated weekly with new learning and labs!
