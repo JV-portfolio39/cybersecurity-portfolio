@@ -1,0 +1,82 @@
+#Attackers
+they can be internal or external, 
+Attackers may differ from the level of sophistication, access to resources, motivation and intent.
+
+least sphisticated threat - Script kiddies as they use other's hacking tool. they are easily defeated using firewall, basic regular patching, intrusion prevention system, endpoint security. they lack technical skills
+
+Hactivist falls in any range of the sphistication they may be like script kiddies or technically strong as well. they are different from the other attackers based on the mootivation. 
+hacker+activist = hactivist they do this for the political and the social agenda
+
+criminal syndicates are focussed on the ransomware, they want financial gains. 
+
+corporate espionage is the one who intrudes like the supporter and then leaks the information to the other competitor
+
+advanced persistent threat - APT - highly skilled or well funded attackers. They can also be a from the military units. they employ very advanced tools and is extremely hard to detect.
+
+hackers 
+white hat: with permission and good intent
+gray hat: no permission and good intent
+black hat: no permission and no good intent
+
+##internal
+dangerous, they have all the access about the organisation and they are quite a big threat and alarming.
+over 51% of the organisations suffer these. 
+they are so costly than the external attacks.
+mostly by the system administrators and the technical support, and other trusted users. 
+
+##Privilege escalation attacks
+this attack is bassically taking the power by hacking. the privilege to gain access to everything like the higher management. 
+to rectify this, one should go through the background checks and they should be given the access they need to have.
+Watch for shadow IT as they will have more data of the company that might cause unacceptable risks.
+
+
+##Attack factors
+phishing is the most common attacks in the present.
+ad campaings on the social media
+USB that is idle at a public space, they target people and tempt them to insert and see what is in that so they could spread malware.
+even in USB cables 
+ATM card skimmer that will extract the information from the magnetic strip to create the clone of the card.
+cloud services
+lan wires or any physical 
+wireless network for a hacker to intrude into the organisation system.
+
+##APT
+injecting a code in a huge code. 
+they are hard to be defeated. 
+they use zero day vunerability. 
+
+
+zero day vulnerability is the one that information researcher holds, but can use that as a weapon against the vendor. 
+
+window of vulnerability is the time betweeen the zero day vulnerability and the new security update.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
